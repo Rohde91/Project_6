@@ -1,3 +1,5 @@
+package com.company;
+
 public class exercise_1 {
     public static void main(String[] args) {
         loop(10);
